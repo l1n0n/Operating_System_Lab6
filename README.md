@@ -1,1 +1,1 @@
-![alt text](ex1.png)
+![Photo](images/ex2.png)
